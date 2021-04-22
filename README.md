@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @LeNgocLOng
 - 👀 I’m interested in code 
 - 🌱 I’m currently learning NUCE
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on you
 - 📫 How to reach me 
+- Call: 098xxxxxxx
 
 <!---
 lengoclong2k/lengoclong2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
