@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LeNgocLOng
 - 👀 I’m interested in code 
-- 🌱 I’m currently learning NUCE
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me 
 - Call: 098xxxxxxx
